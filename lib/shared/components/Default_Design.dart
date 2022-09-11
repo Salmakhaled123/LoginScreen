@@ -27,7 +27,7 @@ required TextInputType type,
 );
 
 Widget ButtonField()=>Center(
-  child:   Container(child: Text('Sign in',
+  child:   Container(child: Text('Sign up',
    ),
 
 
